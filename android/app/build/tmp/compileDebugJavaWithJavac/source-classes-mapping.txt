@@ -1,0 +1,14 @@
+com/ubereat/BuildConfig.java
+ com.ubereat.BuildConfig
+com/ubereat/MainActivity.java
+ com.ubereat.MainActivity
+com/ubereat/ReactNativeFlipper.java
+ com.ubereat.ReactNativeFlipper
+ com.ubereat.ReactNativeFlipper$1
+ com.ubereat.ReactNativeFlipper$2
+ com.ubereat.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/ubereat/MainApplication.java
+ com.ubereat.MainApplication
+ com.ubereat.MainApplication$1
